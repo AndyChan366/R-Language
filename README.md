@@ -1,2 +1,4 @@
 # R-Language
-There are some R Language training
+There are some R Language training.
+
+For my girlfriend.
