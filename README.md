@@ -1,4 +1,2 @@
 # R-Language
-There are some R Language training.
-
-**For my girlfriend.**
+There are some R Language training in CUFE.
